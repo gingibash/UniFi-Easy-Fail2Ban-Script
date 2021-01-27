@@ -13,5 +13,6 @@ The Easy Fail2Ban Script for the UniFi Network Controller can be downloaded [her
 ### INSTRUCTIONS
 
 Run the command below in your terminal to start the script.
-
+```
 rm unifi-fail2ban.sh &> /dev/null; wget https://get.glennr.nl/unifi/extra/unifi-fail2ban.sh && bash unifi-fail2ban.sh
+```
